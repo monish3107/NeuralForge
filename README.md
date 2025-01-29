@@ -1,13 +1,18 @@
-# NeuralForge
-A SaaS landing page for an AI company - NeuralForge
+Neural Forge AI - React SaaS Landing Page
+🚀 Project Overview:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Neural Forge AI is a React-based SaaS landing page that I built a few months ago and have recently deployed. The project showcases modern design and responsive features, with customizations that give it a unique touch.
 
-Currently, two official plugins are available:
+I used assets from JavaScript Mastery (YouTube) as a base but made several changes to better fit my vision. Notable customizations include:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Adding a video to the hero section
+Changing the logos and the name to reflect my branding
+🔍 Key Features:
 
-## Deploy Status
+Built using React
+Fully responsive design, optimized for both desktop and mobile devices
+Custom video integration in the hero section
+Clean and modern UI, tailored for a SaaS business
+🌍 Live Demo: Neural Forge AI
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c28d813-576b-4a47-88a2-42e4cf79f220/deploy-status)](https://app.netlify.com/sites/neural-forge-ai/deploys)
+Feel free to check out the code, suggest improvements, or ask any questions!
