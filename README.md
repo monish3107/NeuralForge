@@ -1,50 +1,61 @@
-Neural Forge AI - React SaaS Landing Page
-🚀 Project Overview:
+# **Neural Forge AI - React SaaS Landing Page**
 
-Neural Forge AI is a React-based SaaS landing page that I built a few months ago and recently deployed. This project showcases a modern, responsive design with customizations such as:
+🚀 **Project Overview:**
 
-Adding a video to the hero section
-Changing the logos and name to reflect my branding
-🔍 Key Features:
-Built with: React
-Responsive design optimized for both desktop and mobile devices
-Custom hero video integration
-Custom logos and branding
-🌍 Live Demo:
-Neural Forge AI
+**Neural Forge AI** is a **React-based SaaS landing page** that I built a few months ago and recently deployed. This project demonstrates modern, responsive design principles, with the following customizations:
 
-🛠️ Technologies Used:
-React
-HTML5
-CSS3
-JavaScript
-Netlify (Deployment)
-📂 Installation & Usage:
-To get started with the project locally:
+- **Hero section:** Added a custom video for more dynamic engagement
+- **Branding updates:** Changed the logos and name to fit my style
 
-Clone the repository:
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/neural-forge-ai.git
-Navigate into the project directory:
+### 🔍 **Key Features:**
+- **Built with:** React
+- **Fully responsive design** optimized for desktop and mobile devices
+- **Custom hero video integration**
+- **Custom logos and branding**
 
-bash
-Copy
-Edit
-cd neural-forge-ai
-Install dependencies:
+---
 
-bash
-Copy
-Edit
-npm install
-Start the development server:
+### 🌍 **Live Demo:**
+[Neural Forge AI](https://neural-forge-ai.netlify.app/)
 
-bash
-Copy
-Edit
-npm start
-💬 Feedback & Contributions:
-Feel free to contribute by forking the repository or opening issues. Suggestions and feedback are always welcome!
+---
+
+### 🛠️ **Technologies Used:**
+- **React**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Netlify** (for deployment)
+
+---
+
+### 📂 **Installation & Usage:**
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/neural-forge-ai.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd neural-forge-ai
+    ```
+
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+    ```bash
+    npm start
+    ```
+
+---
+
+### 💬 **Feedback & Contributions:**
+Feel free to contribute by forking the repository or opening issues. I welcome any suggestions and feedback!
