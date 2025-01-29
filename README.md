@@ -7,6 +7,8 @@
 - **Hero section:** Added a custom video for more dynamic engagement
 - **Branding updates:** Changed the logos and name to fit my style
 
+The project is based on assets from the **[JavaScript Mastery YouTube Channel](https://www.youtube.com/c/JavaScriptMastery)**, with several modifications to personalize the design.
+
 ---
 
 ### 🔍 **Key Features:**
